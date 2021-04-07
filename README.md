@@ -1,2 +1,2 @@
 # rccbot
-Description
+Implementation of rccbot robot arm using Raspbery Pi and Android
